@@ -2,8 +2,6 @@
 
 Convert pnpm lockfile between different major versions
 
-# Getting Started
-
 ## Install dependencies
 
 `pnpm install`
