@@ -2,7 +2,12 @@
 
 Convert pnpm lockfile between different major versions
 
-# Get start
+# Getting Started
+
+## Install dependencies
 
 `pnpm install`
+
+## Run the command
+
 `node index.js <path_to_pnpm-lock_dir>`
